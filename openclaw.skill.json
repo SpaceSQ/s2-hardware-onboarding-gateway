@@ -1,0 +1,20 @@
+{
+  "id": "s2-hardware-onboarding-gateway",
+  "name": "S2 Hardware Identity Onboarding & Heartbeat Gateway",
+  "version": "1.2.0",
+  "type": "developer-guide",
+  "description": "The definitive firmwave guide for S2-ID 22-char nomenclature, Zero-Trust heartbeat onboarding, and 7-day alienation rebirth protocols.",
+  "author": "Miles Xiang (smarthomemiles@gmail.com)",
+  "organization": "Red Anchor Lab",
+  "tags": [
+    "Hardware",
+    "Openclaw",
+    "Zero-Trust",
+    "Firmware",
+    "IoT",
+    "S2-ID"
+  ],
+  "entryPoint": "skill.md",
+  "license": "S2-Sovereign-Open-Source",
+  "repository": "https://github.com/SpaceSQ/s2-hardware-onboarding-gateway"
+}
