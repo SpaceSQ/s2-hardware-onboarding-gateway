@@ -6,6 +6,9 @@
 [![License](https://img.shields.io/badge/license-S2--Sovereign--Open--Source-green.svg)]()
 [![Security](https://img.shields.io/badge/security-Zero--Trust-red.svg)]()
 
+> 📖 **官方协议白皮书发布**：
+> 强烈建议所有开发者在部署固件接入前，完整阅读 **[《S2 硬件身份入户与心跳发现协议白皮书》(S2-HIOP-Whitepaper.md)](./S2-HIOP-Whitepaper.md)**，深入了解底层零信任安全架构与 22 位严格编码规范。
+
 ## 🚀 什么是 S2 硬件入户网关？
 这是为全球 AI 硬件供应链（特别是大湾区/深圳硬件生态）打造的 **Openclaw 无感接入标准**。
 告别繁琐的扫码、蓝牙配对与局域网输入密码。硬件出厂只需预设 **22位 S2-ID 临时身份**并发出低功耗心跳，即可被住宅内的 Openclaw 空间主机自动扫描、收容，并赐予正式物理空间归属！
@@ -24,7 +27,7 @@
 2. 硬件团队需向 S2 官方邮箱 (`smarthomemiles@gmail.com`) 提交 L2 厂商段注册申请。
 
 ## 📜 协议声明 (License)
-本项目采用定制的 **[S2 Sovereign Open Source License (S2-SOSL)](./LICENSE)** 协议。
+本项目采用定制的 **[S2 Sovereign Open Source License (S2-SOSL)](./LICENSE.md)** 协议。
 - 允许免费用于接入 S2 与 Openclaw 生态。
 - **强制要求**：必须严格遵守 22 位无连字符命名规范，且必须向官方注册 L2 地址段。
 - **伦理底线**：严禁将本协议接入的硬件用于非法监控或违背 SST-E (空间社会拓扑伦理边界) 的场景。
